@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.9.0](https://github.com/javalent/fantasy-statblocks/compare/4.8.1...4.9.0) (2025-02-10)
+
+
+### Features
+
+* Add new Pathfinder 2e Creature layout ([#436](https://github.com/javalent/fantasy-statblocks/issues/436)) ([#438](https://github.com/javalent/fantasy-statblocks/issues/438)) ([9cfca6c](https://github.com/javalent/fantasy-statblocks/commit/9cfca6c5892e83be4d75faafce37d255d370ab39))
+
 ## [4.8.1](https://github.com/javalent/fantasy-statblocks/compare/4.8.0...4.8.1) (2024-11-21)
 
 
